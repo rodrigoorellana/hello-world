@@ -8,3 +8,5 @@ Primeira alteração. Criando um pull request.
 Fazendo alteração no branch 1.
 
 Criando uma segunda alteração no Branch 1. #2
+
+Terceira alteração no branch 1 #3.
